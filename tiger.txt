@@ -1,6 +1,6 @@
 team : tigers
 
-manager : hyun
+manager : MiSeon
 
 members :
 - tiger

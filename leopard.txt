@@ -1,4 +1,4 @@
-team : tigers
+team : leopards
 
 manager : hyun
 
