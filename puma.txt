@@ -1,6 +1,6 @@
 team : pumas
 
-manager : Grace
+manager : Jeong
 
 members :
 - JinHo
