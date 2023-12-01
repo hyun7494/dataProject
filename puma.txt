@@ -1,6 +1,6 @@
 team : pumas
 
-manager : Seop
+manager : JeongSeop
 
 members :
 - JinHo
