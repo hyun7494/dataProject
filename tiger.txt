@@ -1,0 +1,8 @@
+team : tigers
+
+manager : hyun
+
+members :
+- tiger
+- rabbit
+- turtle
