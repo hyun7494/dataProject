@@ -1,0 +1,8 @@
+team : leopards
+
+manager : hyun
+
+members :
+- butterfly
+- ant
+- bee
