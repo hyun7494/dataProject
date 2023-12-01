@@ -1,0 +1,6 @@
+team : pumas
+
+manager : Grace
+
+members :
+- JinHo
